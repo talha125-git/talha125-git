@@ -1,5 +1,5 @@
-# 👋 Talha | Frontend Developer
+# Talha 🔥
 
-**React** • **Python** • **Flutter** • **JavaScript** • **C++**
+## Frontend Dev | React ⚛️ | Python 🐍 | Flutter 📱
 
-⚡ HTML • CSS • React Native • Dart
+🟧 HTML5 • 🟦 CSS3 • 🟨 JavaScript • ⚛️ React • 🐍 Python • 📱 Flutter • 🔷 C++
